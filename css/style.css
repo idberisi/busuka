@@ -1,0 +1,43 @@
+@import 'https://fonts.googleapis.com/css?family=Indie+Flower|Poiret+One';
+html, body { 
+	height: 100%; 
+	margin: 0; 
+	padding:0;
+	background:#4EB9E7;
+	color:white;
+	font-family: 'Poiret One', cursive;
+}
+#g {
+	height: 100%;
+}
+#map { 
+	height: 100%; 
+}
+
+#namjalur{
+	background:none;
+	border:solid 2px white;
+	color:white;
+}
+
+.moda{
+	width:60px;
+	height:60px;
+	border:solid 2px white;
+	border-radius:10px;
+	padding:2px;
+}
+
+.moda img{
+  width:100%;
+}
+
+option{
+	background:none;
+}
+
+.mman{
+	font-size:11px;
+}
+
+-webkit-appearance:none;
